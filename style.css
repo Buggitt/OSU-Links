@@ -5,7 +5,7 @@
 body{
   width:534px;
 }
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 1300px) {
   body {
     width: 100%;
 
