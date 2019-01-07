@@ -4,13 +4,12 @@
 }
 
 .quick_link {
-     display: inline-block;
+    display: inline-block;
     text-decoration: none;
     color: black;
-   
     padding: 9px;
     margin: 1px;
-    background-color: #FF9800;
+    background-color: #dc4405;
     border-radius: 7px;
     font-size:10px
 }
