@@ -3,13 +3,27 @@
    font-family: 'Roboto';
 }
 
+@media only screen and (max-width: 600px) {
+  html {
+    max-width:600px;
+
+        }
+}
 body {
-  min-width: 400px;
-   max-width: 500px;
+   min-width: 400px;
+
+
    background-color: black;
    margin-left: 20px;
+   margin-right: 20px;
 }
 
+h1{
+  color:white;
+  font-size: 30px;
+  text-align: center;
+
+}
 
 .quick_link {
     display: inline-block;
