@@ -2,11 +2,11 @@
 * {
    font-family: 'Roboto';
 }
-html{
+body{
   width:534px;
 }
 @media only screen and (min-width: 1000px) {
-  html {
+  body {
     width: 100%;
 
         }
