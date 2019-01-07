@@ -1,4 +1,8 @@
 
+*{
+   font-family: 'Roboto';
+}
+
 .quick_link{
    display: block;
 }
