@@ -2,6 +2,13 @@
 * {
    font-family: 'Roboto';
 }
+
+.top_alert_box{
+   background-color:yellow;
+}
+.alert{
+   color:white;
+}
 body{
   width:534px;
 }
