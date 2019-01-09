@@ -5,6 +5,8 @@
 
 .top_alert_box{
    background-color:yellow;
+   margin:0px;
+   padding:0px;
 }
 .top_alert_text{
    color:black;
