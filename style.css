@@ -5,11 +5,12 @@
 
 .top_alert_box{
    background-color:yellow;
-   margin:0px;
+   margin:-20px;
    padding:0px;
 }
 .top_alert_text{
    color:black;
+   padding:10px;
 }
 body{
   width:534px;
