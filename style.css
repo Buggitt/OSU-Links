@@ -37,6 +37,9 @@ h1{
   text-align: center;
 
 }
+p{
+   color:white;
+}
 
 .quick_link {
     display: inline-block;
