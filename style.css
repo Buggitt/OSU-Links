@@ -19,6 +19,9 @@ body{
 .ankle{
    height:100px;
 }
+footer{
+   height:50px;
+}
 @media only screen and (max-width: 481px){
   body {
     width: 94%;
@@ -28,7 +31,7 @@ body{
 body {
    
 
-
+   margin-bottom:-50px;
    background-color: black;
    margin-left: 20px;
    margin-right: 20px;
