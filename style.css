@@ -16,6 +16,9 @@
 body{
   
 }
+.ankle{
+   height:100px;
+}
 @media only screen and (max-width: 481px){
   body {
     width: 94%;
