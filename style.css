@@ -13,16 +13,16 @@
    padding:10px;
 }
 body{
-  width:534px;
+  
 }
-@media only screen and (min-width: 1300px) {
+@media only screen and (max-width: 481px){
   body {
     width: 100%;
 
         }
 }
 body {
-   min-width: 400px;
+   
 
 
    background-color: black;
